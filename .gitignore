@@ -1,0 +1,5 @@
+# Python intermedia files
+*.pyc
+
+# OSX filesystem Files
+.DS_Store
